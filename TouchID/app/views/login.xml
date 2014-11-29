@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="loginWindow" title="Please login">
+		<Label id="infoLabel" text="Touch ID Login Example"></Label>
+	</Window>
+</Alloy>

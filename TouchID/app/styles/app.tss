@@ -1,0 +1,4 @@
+"Window[platform=ios formFactor=handheld]": {
+	backgroundColor:"#fff",
+	barColor:"#f1f1f1"
+}

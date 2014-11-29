@@ -1,9 +1,6 @@
-<h1>Chapter 7</h1>
+<h1>Touch ID Example</h1>
 
-This repository contains examples apps and "how to" wiki articles used in Chaper 7 of Titanium in Practice.
-
-
-* [Touch ID](https://github.com/TiProBook/Chapter-7-Examples/tree/master/TouchID) example
+This projet demonstrates the Touch ID techniques contained within Titanium in Practice.
 
 
 ----------------------------------
@@ -16,5 +13,4 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
-
 

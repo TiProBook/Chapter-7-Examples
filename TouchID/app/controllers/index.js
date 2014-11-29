@@ -1,5 +1,6 @@
-function doClick(e) {
-    alert($.label.text);
-}
+
+$.index.addEventListener('open',function(e){
+    Alloy.createController("login").getView().open({model:true});
+});
 
 $.index.open();

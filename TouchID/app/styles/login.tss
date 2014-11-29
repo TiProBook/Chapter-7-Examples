@@ -1,0 +1,13 @@
+"#loginWindow": {
+	backgroundColor:"#fff"
+}
+
+
+"#infoLabel": {
+	textAlign:'center',
+	top:100,
+	font:{
+		fontSize:48,
+		fontWeight:"bold"
+	}
+}
