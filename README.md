@@ -2,6 +2,9 @@
 
 This repository contains examples apps and "how to" wiki articles used in Chaper 7 of Titanium in Practice.
 
+Please visit the wiki for this chapter [here](https://github.com/TiProBook/Chapter-7-Examples/wiki).
+
+Example Applications:
 
 * [Touch ID](https://github.com/TiProBook/Chapter-7-Examples/tree/master/TouchID) example
 
